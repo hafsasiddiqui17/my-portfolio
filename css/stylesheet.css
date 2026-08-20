@@ -1,0 +1,261 @@
+/* .home-pge{
+content: url("../assets/img/bg1.jpg");
+} */
+
+
+body.home-pge {
+    color: 2C3930;
+    background-color: #212529;
+}
+.container.text-center {
+    color: seashell;
+}
+
+
+.card.crd-one {
+     background: #947b000b;
+     border-radius: 80%;
+  /* border-radius: 50%;
+  height: 50px;
+  position: absolute;
+  width: 50px; */
+
+  animation: bounceIn 2s .5s;
+    /* animation: pulse 1s ease infinite; */
+}
+
+.row.clr-rw {
+    color: #E0E0E0;
+}
+.row.ftr-clr {
+  color: #E0E0E0;
+
+}
+
+
+img.card-img.circle-image {
+    margin: 1em -27em 4em -34em;
+    border-radius: 31px;
+    width: 107%;
+    /* background-color: white; */
+    /* box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); */
+    margin-bottom: 25px;
+}
+
+.card.uiux {
+    margin: -10em 0em 0em 51em;
+    border-radius: 3em;
+} 
+img.card-img-top.uiux {
+    border-radius: 3em;
+}
+.row.tech {
+    padding: 2em;
+}
+
+h5.card-title.tc {
+    margin: 1em;
+}
+.col.boxfrnt {
+    /* padding: 45em 25em !important; */
+    /* text-align: center; */
+    background:#142b42 !important;
+    margin-bottom: 30em !important;
+}
+h3.frnt {
+    border-radius: 25px;
+    background-color: #39325e;
+    padding: 20px;
+    width: 225px;
+    height: 150px;
+}
+
+h4.cor {
+    border-radius: 25px;
+    background-color: #73AD21;
+    padding: 20px;
+    width: 200px;
+    height: 150px;
+}
+
+.col.bcknd {
+    background: #5dc279 !important;
+    margin-bottom: 30em !important;
+}
+
+h2.skillset {
+    border-radius: 25px;
+    background-color: #73AD21;
+    padding: 20px;
+    width: 200px;
+    height: 150px;
+}
+
+h5.tc {
+    margin: 1em;
+}
+.card.int {
+    margin: 2em 1em 2em 0em;
+    background-color: #d2cf8a;
+
+
+    /* height: 23em; */
+}
+a.btn.btn-primary {
+    background-color: #1d4c75;
+    width: 12em;
+    font-size: large;
+    box-shadow: 0px 10px 30px rgba(118, 85, 225, 0.3);
+    border: double 2px transparent;
+}
+nav.navbar.navbar-expand-lg.navbar-dark.bg-dark {
+    background-color: #010a13 !important;
+}
+
+a.nav-link {
+    color: honeydew;
+}
+
+.card-body.crdintro {
+    padding: 6em;
+}
+
+/* @keyframes pulse {
+  0% {
+    transform: scale(1);
+  }
+
+  50% {
+    transform: scale(1.1);
+  }
+
+  100% {
+    transform: scale(1);
+  }
+} */
+.card.one {
+    margin: -18em 6em 3em 5em;
+}
+body.home-pge {
+    overflow-x: hidden;
+
+    width: 100%;
+}
+section.stckpro {
+    margin: -23em 2em 2em 0em;
+    width: 95em;
+}
+
+nav.navbar.navbar-expand-lg.navbar-dark.bg-dark {
+    background: radial-gradient(#6a88b5, transparent);
+} 
+
+.card-body {
+    /* background-color: initial; */
+    background: radial-gradient(#6a88b5, transparent);
+}
+.col.exp {
+   text-align: center;
+    margin: 3em 0em 0em 0em;
+    background: radial-gradient(#6a88b5, transparent);
+    height: 16em;
+}
+img.qlik {
+    width: 35em;
+    padding: 1em;
+}
+img.ske {
+    width: 36em;
+    /* padding: 1em; */
+    margin: 1.5em 2em 0em 2em;
+}
+img.ui {
+    margin: 1em 5em 4em 8em;
+    width: 24em;
+    padding: 0em;
+}
+img.lara {
+    width: 28em;
+    padding: 1em;
+    margin: 0em 5em;
+}
+
+img.wrd {
+    width: 39em;
+    padding: 1em;
+}
+
+h2.stcks-rw {
+    /* margin-left: 2em; */
+    /* text-align: center; */
+    
+    height: 2em;
+    margin-bottom: 2em;
+    margin-top: -12em;
+    text-align: center;
+}
+img.vh {
+    width: 44em;
+}
+img.flstck {
+    padding: 6em;
+    border-radius: 9em;
+    width: 40em;
+
+}
+img.fullstack {
+    margin-left: 2e;
+    margin-left: 1em;
+    border-radius: 2em;
+    width: 32em;
+
+}
+
+/* img.fullstack:hover {
+    transform: scale(1.1);
+}
+
+img.flstck:hover {
+        transform: scale(1.1);
+
+} */
+section.stckpro {
+    margin: -23em 2em 3em 4em;
+}
+img#triangle-left {
+    margin-left: 16em;
+}
+.col-4.ui-ux-col {
+    margin: 2em;
+}
+.card.uiux {
+    /* margin: 2em; */
+    margin-left: 1em;
+    height: 22em;
+}
+.col-4.frntend-col {
+    margin-left: 38em;
+    margin-top: -8em;
+}
+img#triangle-left.mrn {
+    margin: 0em 0em 0em 45em;
+
+    width: 30em;
+}
+img#triangle-left.mrnimg {
+    margin: 0em 2em 1em 1em;
+    width: 32em;
+}
+@keyframes bounceIn {
+  0% {
+    transform: scale(0.1);
+    opacity: 0;
+  }
+  60% {
+    transform: scale(1.2);
+    opacity: 1;
+  }
+  100% {
+    transform: scale(1);
+  }
+}
